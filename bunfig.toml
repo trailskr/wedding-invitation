@@ -1,0 +1,11 @@
+[install]
+exact = true
+# registry = "http://10.1.200.18:8081/repository/npmjs.org"
+# registry = "http://10.1.20.41:8081/repository/npmjs/"
+
+[install.scopes]
+"@swemel" = "http://10.1.200.18:8081/repository/swemel/"
+
+[run]
+# equivalent to `bun --bun` for all `bun run` commands
+bun = true

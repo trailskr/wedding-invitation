@@ -1,0 +1,9 @@
+html,
+body,
+#app {
+  @apply h-full m-0 p-0;
+}
+
+html {
+  @apply bg-base text-text accent-lavender;
+}

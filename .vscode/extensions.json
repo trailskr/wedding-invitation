@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "vitest.explorer",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.goto-alias"
+  ]
+}
